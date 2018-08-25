@@ -1,4 +1,4 @@
-# ghost-css-pixelart
+# Ghost CSS Pixel Art
 
 Pixel art with Pure CSS - Ghost { Super Mario Bros }
 
@@ -21,10 +21,10 @@ A modern web browser:
 * [Opera]
 * [IExplorer] 
 
-[Firefox]: https://www.mozilla.org/pt-BR/firefox/new/
-[Chrome]: https://www.google.com/chrome/
-[Opera]: http://www.opera.com/
-[IExplorer]: https://www.microsoft.com/pt-br/download/internet-explorer.aspx/
+[Firefox]: https://www.mozilla.org/pt-BR/firefox/new
+[Chrome]: https://www.google.com/chrome
+[Opera]: http://www.opera.com
+[IExplorer]: https://www.microsoft.com/pt-br/download/internet-explorer.aspx
 
 
 ### View the project in your browser
@@ -38,4 +38,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ### Authors
 
-* `Alex Aquino`
+* @alexaquino
+* `Email: alexaquino.it@gmail.com`
+* `Codepen: codepen.io/alexaquino`
+* `Instagram: instagram.com/alexaquino_it`
