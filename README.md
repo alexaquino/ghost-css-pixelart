@@ -2,7 +2,7 @@
 
 Pixel art with Pure CSS - Ghost { Super Mario Bros }
 
-![Captura_de_Tela_2018-08-22_às_22.00.26](/uploads/1fafe20c0790edfa50742081f2521e26/Captura_de_Tela_2018-08-22_às_22.00.26.png)
+![Captura_de_Tela_2018-08-22_às_22 00 26](https://user-images.githubusercontent.com/12216463/59978735-22168b00-95b6-11e9-959b-faadab5b1eb0.png)
 
 
 ### Directory Structure
